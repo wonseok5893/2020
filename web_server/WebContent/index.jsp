@@ -8,6 +8,7 @@
 <title>뭐할까 웹사이트</title>
 <link rel="stylesheet" href ="./css/bootstrap.min.css">
 <link rel="stylesheet" href ="./css/custom.css">
+</script>
 </head>
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -37,12 +38,14 @@
 		</ul>
 		</div>
 	</nav>
-	<div class="audioPlay"> <audio autoplay controls> <source src="audio/introMusic.mp3" type="audio/mp3"> </audio>
-	</div>
+	<div></div>
+
 
 <!-- jquery, popper.js -->
-<script src="./js/jquery.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 <script src="./js/bootstrap.min.js"></script>
-<script src="./js/popper.js"></script>
+<script src="./js/popper.min.js"></script>
+
 </body>
 </html>
